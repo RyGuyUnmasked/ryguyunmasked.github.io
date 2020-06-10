@@ -1,0 +1,43 @@
+.header {
+	background-color: #3498DB;
+	color: white;
+	padding: 20px;
+	margin: -8px;
+}
+
+div h2 {
+	display: inline;
+}
+
+a {
+	float: right;
+	margin-left: 5px;
+	margin-right: 5px;
+	text-decoration: none;
+	font-family: arial;
+	color: white;
+}
+
+body {
+	background-image: url("background.gif");
+	background-size: cover;
+	font-family: arial;
+	color: white;
+}
+
+iframe {
+	margin-top: 5%;
+}
+
+.footer img {
+	display: block;
+	height: 250px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+}
+
+.footer {
+	font-size: 24px;
+}
